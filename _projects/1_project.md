@@ -1,11 +1,29 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Short-and long-term performance of TTC floor system
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+In this project, short-term pushout tests were performed on LVL/GLT beam to CLT slab joints (with
+coach screw shear connectors) to characterise the load-slip, peak load, and failure mode
+of the joints.Furthermore, material tests were conducted on timber and the screws, and
+the results were used to build a versatile beam on inelastic foundation finite element (FE)
+model and predict the full range load-slip response of the TTC joints.
+
+To assess the long-term performance of the TTC system, twelve TTC joints and eight
+full-scale TTC beams were fabricated by connecting LVL/GLT beams to CLT slabs. The
+TTC joints and beams were subjected to sustained (constant) loads and monitored under
+an indoor uncontrolled environment for over 500 days. The test results revealed the major
+influence of the CLT slab thickness and orientation (crosswise or lengthwise), shear
+connector types/sizes and CLT slab continuity (segmentation) on the long-term
+performance of the TTC joints and beams. 
+
+Lastly, a 3D fully coupled finite element (FE) model implemented as user-defined subroutines in ABAQUS/Standard was
+validated against the TTC joints and beams long-term test results and accordingly input
+parameters for long-term FE simulations of the LVL-CLT and GLT-CLT composites
+(with screw shear connectors) are recommended.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

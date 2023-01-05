@@ -3,4 +3,7 @@
   color: "#00369f"
 
 "PhysRev":
-  url: https://journals.aps.org/
+#  url: https://journals.aps.org/
+  url:https://www.sciencedirect.com/
+"CBM":
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0950061821010333
