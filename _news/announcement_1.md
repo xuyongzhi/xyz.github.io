@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-02-02 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Yatong Nie was awared the Doctor of Philosophy from UNSW! Congratulations to Dr. Nie!
