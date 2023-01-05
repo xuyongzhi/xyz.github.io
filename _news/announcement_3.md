@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-12-23 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Yatong Nie successfully got the "Bring your own project" funding from WSP Australia which is to develop the standard process and tools for evlautaion of carbon emission during the design stage.
