@@ -17,7 +17,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This should be changed.
+**There is always a better way**
+
+As a Digital Engineer/Structural Engineer, I am focused on developing digital and sustainable solutions in civil and structural engineering. 
+My interest spans multiple areas, including digital engineering, machine learning, data science, finite element modelling and timber structures. My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and built intelligent systems that can improve human lives.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
