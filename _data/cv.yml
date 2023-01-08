@@ -7,11 +7,6 @@
       year: 2022
       description:
         - Supervised by Prof. Hamid Valipour
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 
 - title: Experience
@@ -46,28 +41,22 @@
       year: S1, 2020
       description: CVEN3303 Steel Structures, CVEN9806 Prestressed Concrete Structure
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Timber Composite Structures
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Coupled finite element modelling
+        - Long-term behaviour
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Implementation of deelp learning method in Civil Engineering
+    - title: Digital Engineering
+      items:
+        - IFC schema analysis and development
+        - Carbon Footprint evaluation
+
 
 - title: Other Interests
   type: list

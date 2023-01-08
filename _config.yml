@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yatong
 middle_name:
 last_name: Nie
-email: nieyatong@gmail.com, yatong.nie@wsp.com
+email: nieyatong@gmail.com
 linkedin: https://www.linkedin.com/in/yatong-nie-18a123108/
 google scholar: https://scholar.google.com/citations?user=39jWzgIAAAAJ&hl=zh-CN
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -63,7 +63,7 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: # The site-wide (default for all links) Open FGraph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -252,8 +252,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nie]
+  first_name: [Yatong, Y., Y]
 
   style: apa
   locale: en
