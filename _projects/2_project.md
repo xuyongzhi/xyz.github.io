@@ -1,13 +1,7 @@
 ---
 layout: page
 title: Export properties from IFC schema
-description: Digital Engineering
-img: assets/img/3.jpg
-importance: 2
-category: work
----
-
-**Available Methods**
+description: Digital Engineeringe Methods**
 
 Method 1: Properties+ | Navisworks
 
