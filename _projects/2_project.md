@@ -2,8 +2,12 @@
 layout: page
 title: Export properties from IFC schema
 description: Digital Engineeringe Methods**
+img: assets/img/DE.png
+importance: 1
+category: work
+---
 
-Method 1: Properties+ | Navisworks
+## Method 1: Properties+ | Navisworks
 
 Step1: Create Properties template
 
