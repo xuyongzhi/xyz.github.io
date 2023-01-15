@@ -21,7 +21,7 @@ And the model property check templated is provided.
     </div>
 </div>
 <div class="caption">
-    [Model Property Check Template](https://www.transport.nsw.gov.au/system/files/media/documents/2021/Model-Property-Check-Template-DMS-FT-454.xlsx).
+    <a href="https://www.transport.nsw.gov.au/system/files/media/documents/2021/Model-Property-Check-Template-DMS-FT-454.xlsx" title="Model Property Check Template">Model Property Check Template</a>
 </div>
 
 Therefore, there is a high demand for us to use an effective tool to audit the properties in BIM models which can be used 
