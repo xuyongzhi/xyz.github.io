@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Export properties from IFC schema
-description: Digital Engineeringe Methods**
+description: Digital Engineeringe Methods
 img: assets/img/DE.png
 importance: 1
 category: work
