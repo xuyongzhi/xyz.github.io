@@ -4,7 +4,7 @@ title: Export properties from IFC schema
 description: An innovated method to check data in BIM models
 img: assets/img/DE.png
 importance: 1
-category: Digital Engineering
+category: work
 ---
 ## Drivers/Background
 Digital Twin is not only a digital replication of a physical asset, it is a way beyond that. Digital twin is the data 
