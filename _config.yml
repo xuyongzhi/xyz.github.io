@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Yatong
+first_name: Yongzhi
 middle_name:
-last_name: Nie
+last_name: Xu
 email: nieyatong@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 #url: https://Yatong-Nie.github.io # the base hostname & protocol for your site
-url: https://yatongnie.com
+url: https://xuyongzhi/github.io/xyz.github.io
 #baseurl: /yatongnie2.github.io/ # the subpath of your site, e.g. /blog/
 baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
